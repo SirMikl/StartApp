@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "startapp-d42c9": {
+      "hosting": {
+        "StartApp": [
+          "startapp-d42c9"
+        ]
+      }
+    }
+  }
+}
